@@ -1,0 +1,171 @@
+{
+  "updated_at": "2026-11-09T08:45:12.437028+00:00",
+  "public_base_url": "https://lcy0330.github.io/tvbox-config",
+  "summary": {
+    "fresh": 16,
+    "cached": 0,
+    "failed": 0
+  },
+  "sources": [
+    {
+      "id": "qist_jsm",
+      "name": "Qist｜JSM 综合",
+      "project": "qist",
+      "category": "general",
+      "recommended": true,
+      "status": "fresh",
+      "used_url": "https://qist.wyfc.qzz.io/jsm.json",
+      "final_url": "https://qist.wyfc.qzz.io/jsm.json"
+    },
+    {
+      "id": "qist_0827",
+      "name": "Qist｜0827 FongMi",
+      "project": "qist",
+      "category": "general",
+      "recommended": true,
+      "status": "fresh",
+      "used_url": "https://qist.wyfc.qzz.io/0827.json",
+      "final_url": "https://qist.wyfc.qzz.io/0827.json"
+    },
+    {
+      "id": "wangerxiao",
+      "name": "独立｜王二小",
+      "project": "independent",
+      "category": "general",
+      "recommended": true,
+      "status": "fresh",
+      "used_url": "https://9280.kstore.vip/newwex.json",
+      "final_url": "https://9280.kstore.vip/newwex.json"
+    },
+    {
+      "id": "laoliubei",
+      "name": "独立｜老刘备",
+      "project": "independent",
+      "category": "general",
+      "recommended": true,
+      "status": "fresh",
+      "used_url": "https://raw.liucn.cc/box/m.json",
+      "final_url": "https://raw.liucn.cc/box/m.json"
+    },
+    {
+      "id": "xiaoma",
+      "name": "独立｜小马",
+      "project": "independent",
+      "category": "general",
+      "recommended": true,
+      "status": "fresh",
+      "used_url": "https://szyyds.cn/tv/x.json",
+      "final_url": "https://szyyds.cn/tv/x.json"
+    },
+    {
+      "id": "xiaohezi4k",
+      "name": "独立｜4K 小盒子（HTTP 备选）",
+      "project": "independent",
+      "category": "general",
+      "recommended": false,
+      "status": "fresh",
+      "used_url": "http://xhztv.top/4k.json",
+      "final_url": "http://xhztv.top/4k.json"
+    },
+    {
+      "id": "qist_0825",
+      "name": "Qist｜0825 小而精",
+      "project": "qist",
+      "category": "general",
+      "recommended": false,
+      "status": "fresh",
+      "used_url": "https://qist.wyfc.qzz.io/0825.json",
+      "final_url": "https://qist.wyfc.qzz.io/0825.json"
+    },
+    {
+      "id": "qist_js",
+      "name": "Qist｜JS 大型合集",
+      "project": "qist",
+      "category": "general",
+      "recommended": false,
+      "status": "fresh",
+      "used_url": "https://qist.wyfc.qzz.io/js.json",
+      "final_url": "https://qist.wyfc.qzz.io/js.json"
+    },
+    {
+      "id": "qist_xyq",
+      "name": "Qist｜XYQ 香雅情",
+      "project": "qist",
+      "category": "general",
+      "recommended": false,
+      "status": "fresh",
+      "used_url": "https://qist.wyfc.qzz.io/XYQ.json",
+      "final_url": "https://qist.wyfc.qzz.io/XYQ.json"
+    },
+    {
+      "id": "qist_fty",
+      "name": "Qist｜FTY 饭太硬",
+      "project": "qist",
+      "category": "general",
+      "recommended": true,
+      "status": "fresh",
+      "used_url": "https://qist.wyfc.qzz.io/fty.json",
+      "final_url": "https://qist.wyfc.qzz.io/fty.json"
+    },
+    {
+      "id": "qist_xiaosa",
+      "name": "Qist｜潇洒",
+      "project": "qist",
+      "category": "general",
+      "recommended": false,
+      "status": "fresh",
+      "used_url": "https://qist.wyfc.qzz.io/xiaosa/api.json",
+      "final_url": "https://qist.wyfc.qzz.io/xiaosa/api.json"
+    },
+    {
+      "id": "qist_dianshi",
+      "name": "Qist｜电视自用",
+      "project": "qist",
+      "category": "general",
+      "recommended": false,
+      "status": "fresh",
+      "used_url": "https://qist.wyfc.qzz.io/dianshi.json",
+      "final_url": "https://qist.wyfc.qzz.io/dianshi.json"
+    },
+    {
+      "id": "qist_9918",
+      "name": "成人专用｜Qist 9918 高天流云",
+      "project": "qist",
+      "category": "adult",
+      "recommended": false,
+      "status": "fresh",
+      "used_url": "https://qist.wyfc.qzz.io/9918.json",
+      "final_url": "https://qist.wyfc.qzz.io/9918.json"
+    },
+    {
+      "id": "qist_99188",
+      "name": "成人专用｜Qist 99188",
+      "project": "qist",
+      "category": "adult",
+      "recommended": false,
+      "status": "fresh",
+      "used_url": "https://qist.wyfc.qzz.io/99188.json",
+      "final_url": "https://qist.wyfc.qzz.io/99188.json"
+    },
+    {
+      "id": "qist_0821",
+      "name": "已知问题｜Qist 0821（JAR 校验不符）",
+      "project": "qist",
+      "category": "issue",
+      "recommended": false,
+      "status": "fresh",
+      "used_url": "https://qist.wyfc.qzz.io/0821.json",
+      "final_url": "https://qist.wyfc.qzz.io/0821.json"
+    },
+    {
+      "id": "qist_0826",
+      "name": "已知问题｜Qist 0826（JAR 校验不符）",
+      "project": "qist",
+      "category": "issue",
+      "recommended": false,
+      "status": "fresh",
+      "used_url": "https://qist.wyfc.qzz.io/0826.json",
+      "final_url": "https://qist.wyfc.qzz.io/0826.json"
+    }
+  ]
+}

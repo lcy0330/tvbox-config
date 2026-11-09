@@ -1,0 +1,28 @@
+{
+  "urls": [
+    {
+      "name": "Qist｜JSM 综合",
+      "url": "https://lcy0330.github.io/tvbox-config/qist_jsm.json"
+    },
+    {
+      "name": "Qist｜0827 FongMi",
+      "url": "https://lcy0330.github.io/tvbox-config/qist_0827.json"
+    },
+    {
+      "name": "独立｜王二小",
+      "url": "https://lcy0330.github.io/tvbox-config/wangerxiao.json"
+    },
+    {
+      "name": "独立｜老刘备",
+      "url": "https://lcy0330.github.io/tvbox-config/laoliubei.json"
+    },
+    {
+      "name": "独立｜小马",
+      "url": "https://lcy0330.github.io/tvbox-config/xiaoma.json"
+    },
+    {
+      "name": "Qist｜FTY 饭太硬",
+      "url": "https://lcy0330.github.io/tvbox-config/qist_fty.json"
+    }
+  ]
+}

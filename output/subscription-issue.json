@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {
+      "name": "已知问题｜Qist 0821（JAR 校验不符）",
+      "url": "https://lcy0330.github.io/tvbox-config/qist_0821.json"
+    },
+    {
+      "name": "已知问题｜Qist 0826（JAR 校验不符）",
+      "url": "https://lcy0330.github.io/tvbox-config/qist_0826.json"
+    }
+  ]
+}
